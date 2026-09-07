@@ -1,4 +1,4 @@
-# NUBIAN SOUL Store tshierts
+# noubian-tshirt
 Cloudflare Workers + D1 + R2.
 
 - `public/index.html`: متجر كامل في ملف واحد للواجهة.
